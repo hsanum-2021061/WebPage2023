@@ -1,0 +1,17 @@
+body{
+    background-color: blanchedalmond;
+}
+
+title{
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+#texto {
+    color: rgb(0, 116, 81);
+}
+
+.kinal{
+    text-align: center;
+}
